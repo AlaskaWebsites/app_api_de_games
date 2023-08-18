@@ -2,6 +2,8 @@
 
 API de jogos para consumo no front-end.
 
+<img src="./Consumo de API/assets/img/design.png" alt="Jogo mata mosca">
+
 # Recursos
 
 * O backend foi desenvolvido com express.
